@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge" />
